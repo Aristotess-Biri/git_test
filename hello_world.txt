@@ -1,1 +1,4 @@
 Hello World!
+Testing out commit messages in VS Code
+git commit
+Edit hello_world.txt
